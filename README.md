@@ -39,14 +39,6 @@ Alternatively, you can view this and other files on GitHub at [https://github.co
 
 <br>
 
-[![Code tests (Linux)](https://github.com/Around-experts/LLM-Book/actions/workflows/basic-tests-linux.yml/badge.svg)](https://github.com/Around-experts/LLM-Book/actions/workflows/basic-tests-linux.yml)
-[![Code tests (Windows)](https://github.com/Around-experts/LLM-Book/actions/workflows/basic-tests-windows.yml/badge.svg)](https://github.com/Around-experts/LLM-Book/actions/workflows/basic-tests-windows.yml)
-[![Code tests (macOS)](https://github.com/Around-experts/LLM-Book/actions/workflows/basic-tests-macos.yml/badge.svg)](https://github.com/Around-experts/LLM-Book/actions/workflows/basic-tests-macos.yml)
-[![Check Python style](https://github.com/Around-experts/LLM-Book/actions/workflows/pep8-linter.yml/badge.svg)](https://github.com/Around-experts/LLM-Book/actions/workflows/pep8-linter.yml)
-[![Check hyperlinks](https://github.com/Around-experts/LLM-Book/actions/workflows/check-links.yml/badge.svg)](https://github.com/Around-experts/LLM-Book/actions/workflows/check-links.yml)
-
-<br>
-
 | Chapter Title                                              | Main Code (for quick access)                                                                                                    | All Code + Supplementary      |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | [Setup recommendations](setup)                  | -                                                                                                                         | -                             |
